@@ -1,0 +1,182 @@
+{
+  "name": "War's Army",
+  "menuBackgroundImage": "https://drive.google.com/uc?export=view&id=1KKFU5NvsX7XIqcOK6QYXVGIgjxHm-52i",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://i.ibb.co/gbD7c8fG/playmat1.jpg",
+      "https://i.ibb.co/bfXC1zk/playmat2.jpg",
+      "https://i.ibb.co/5XNymPw5/playmat3.jpg",
+      "https://i.ibb.co/BH9msP2S/playmat4.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/gstvntx/WA/refs/heads/main/CardList%20(1).json",
+    "cardBack": "https://i.ibb.co/v4f1grwt/cardback.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Unidades",
+      "Conjurações",
+      "Estruturas",
+      "Invocações"
+    ],
+    "formats": [
+      {
+        "title": "Contestação (1v1)",
+        "gameplay": "Contestação (1v1)",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Classico": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Base A",
+          "Base B",
+          "Backline A",
+          "Backline B",
+          "Frontline"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Base A",
+              "style": false
+            },
+            {
+              "section": "Backline A",
+              "style": false
+            },
+            {
+              "section": "Frontline",
+              "style": false
+            },
+            {
+              "section": "Backline B",
+              "style": false
+            },
+            {
+              "section": "Base B",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Brigada",
+          "Grimório"
+        ],
+        "autoPlayFromHand": {
+          "Tipo de carta (preencher)": "Base"
+        },
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Frontline": {
+            "title": "Frontline",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Base A": {
+            "title": "Base A",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Backline A": {
+            "title": "Backline A",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Base B": {
+            "title": "Base B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Backline B": {
+            "title": "Backline B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
