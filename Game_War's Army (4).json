@@ -1,0 +1,199 @@
+{
+  "name": "War's Army",
+  "menuBackgroundImage": "https://i.ibb.co/mFHkCkXL/fundo-de-cria-o.jpg",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://i.ibb.co/gbD7c8fG/playmat1.jpg",
+      "https://i.ibb.co/bfXC1zk/playmat2.jpg",
+      "https://i.ibb.co/5XNymPw5/playmat3.jpg",
+      "https://i.ibb.co/BH9msP2S/playmat4.jpg"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://raw.githubusercontent.com/gstvntx/WA/refs/heads/main/CardList%20(3).json",
+    "cardBack": "https://i.ibb.co/v4f1grwt/cardback.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Unidades",
+      "Conjurações",
+      "Estruturas",
+      "Invocações"
+    ],
+    "formats": [
+      {
+        "title": "Contestação (1v1)",
+        "gameplay": "Contestação (1v1)",
+        "customCategories": []
+      }
+    ]
+  },
+  "gameplay": {
+    "Contestação (1v1)": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": 7,
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Cadáver reanimado",
+          "image": "https://i.ibb.co/Hf25MKZT/0012-cad-ver-reanimado.png",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Recruta",
+          "image": "https://i.ibb.co/M5kShmxC/0016-Recruta.png",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Esqueleto combatente",
+          "image": "https://i.ibb.co/jvpDPgqH/0070-Esqueleto-combatente.png",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        "2"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Base A",
+          "Base B",
+          "Backline A",
+          "Backline B",
+          "Frontline"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "section": "Base A",
+              "style": false
+            },
+            {
+              "section": "Backline A",
+              "style": false
+            },
+            {
+              "section": "Frontline",
+              "style": false
+            },
+            {
+              "section": "Backline B",
+              "style": false
+            },
+            {
+              "section": "Base B",
+              "style": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Brigada",
+          "Grimório"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Frontline": {
+            "title": "Frontline",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Base A": {
+            "title": "Base A",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Backline A": {
+            "title": "Backline A",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Base B": {
+            "title": "Base B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Backline B": {
+            "title": "Backline B",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
