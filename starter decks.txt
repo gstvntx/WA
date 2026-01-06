@@ -1,0 +1,521 @@
+[
+{
+  "title": "Um entre trezentos",
+  "id": "94dd3931-5264-484b-9189-14585c8ea778",
+  "game": "War's Army",
+  "format": [
+    "Contestação (1v1)"
+  ],
+  "cardCount": 81,
+  "createdAt": "2026-01-06T19:51:41.534Z",
+  "lastModifiedAt": "2026-01-06T19:56:28.080Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Deck",
+      "Grimório"
+    ],
+    "Sideboard": [],
+    "Deck": [
+      {
+        "count": 3,
+        "id": "00001"
+      },
+      {
+        "count": 4,
+        "id": "00002"
+      },
+      {
+        "count": 3,
+        "id": "00003"
+      },
+      {
+        "count": 2,
+        "id": "00004"
+      },
+      {
+        "count": 3,
+        "id": "00005"
+      },
+      {
+        "count": 3,
+        "id": "00006"
+      },
+      {
+        "count": 3,
+        "id": "00007"
+      },
+      {
+        "count": 4,
+        "id": "0011"
+      },
+      {
+        "count": 4,
+        "id": "00013"
+      },
+      {
+        "count": 4,
+        "id": "00014"
+      },
+      {
+        "count": 4,
+        "id": "00015"
+      },
+      {
+        "count": 3,
+        "id": "00017"
+      },
+      {
+        "count": 2,
+        "id": "00019"
+      },
+      {
+        "count": 2,
+        "id": "00020"
+      },
+      {
+        "count": 2,
+        "id": "00044"
+      },
+      {
+        "count": 4,
+        "id": "00045"
+      },
+      {
+        "count": 3,
+        "id": "00048"
+      },
+      {
+        "count": 4,
+        "id": "00107"
+      },
+      {
+        "count": 3,
+        "id": "00088"
+      }
+    ],
+    "Grimório": [
+      {
+        "count": 1,
+        "id": "00008"
+      },
+      {
+        "count": 1,
+        "id": "00009"
+      },
+      {
+        "count": 1,
+        "id": "00010"
+      },
+      {
+        "count": 4,
+        "id": "00018"
+      },
+      {
+        "count": 4,
+        "id": "00022"
+      },
+      {
+        "count": 2,
+        "id": "00021"
+      },
+      {
+        "count": 4,
+        "id": "00071"
+      },
+      {
+        "count": 4,
+        "id": "00062"
+      }
+    ]
+  }
+},
+
+{
+  "title": "Juízo divino",
+  "id": "f1569bb5-a020-495a-887b-a327820cf8d8",
+  "game": "War's Army",
+  "format": [
+    "Contestação (1v1)"
+  ],
+  "cardCount": 82,
+  "createdAt": "2026-01-06T19:57:29.223Z",
+  "lastModifiedAt": "2026-01-06T20:00:40.974Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Deck",
+      "Grimório"
+    ],
+    "Sideboard": [],
+    "Deck": [
+      {
+        "count": 4,
+        "id": "00025"
+      },
+      {
+        "count": 2,
+        "id": "00026"
+      },
+      {
+        "count": 4,
+        "id": "00029"
+      },
+      {
+        "count": 3,
+        "id": "00028"
+      },
+      {
+        "count": 4,
+        "id": "00030"
+      },
+      {
+        "count": 2,
+        "id": "00031"
+      },
+      {
+        "count": 2,
+        "id": "00027"
+      },
+      {
+        "count": 4,
+        "id": "00032"
+      },
+      {
+        "count": 2,
+        "id": "00033"
+      },
+      {
+        "count": 2,
+        "id": "00034"
+      },
+      {
+        "count": 2,
+        "id": "00035"
+      },
+      {
+        "count": 4,
+        "id": "00036"
+      },
+      {
+        "count": 2,
+        "id": "00038"
+      },
+      {
+        "count": 4,
+        "id": "00041"
+      },
+      {
+        "count": 3,
+        "id": "00037"
+      },
+      {
+        "count": 2,
+        "id": "00042"
+      },
+      {
+        "count": 2,
+        "id": "00040"
+      },
+      {
+        "count": 4,
+        "id": "00046"
+      },
+      {
+        "count": 4,
+        "id": "00049"
+      },
+      {
+        "count": 3,
+        "id": "00050"
+      },
+      {
+        "count": 3,
+        "id": "00100"
+      }
+    ],
+    "Grimório": [
+      {
+        "count": 4,
+        "id": "00024"
+      },
+      {
+        "count": 4,
+        "id": "00039"
+      },
+      {
+        "count": 4,
+        "id": "00043"
+      },
+      {
+        "count": 4,
+        "id": "00047"
+      },
+      {
+        "count": 4,
+        "id": "00051"
+      }
+    ]
+  }
+},
+
+{
+  "title": "Tomada da Bálkia",
+  "id": "aaa862fe-79a9-42dc-9424-8d0932871697",
+  "game": "War's Army",
+  "format": [
+    "Contestação (1v1)"
+  ],
+  "cardCount": 78,
+  "createdAt": "2026-01-06T20:02:04.880Z",
+  "lastModifiedAt": "2026-01-06T20:04:59.631Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Deck",
+      "Grimório"
+    ],
+    "Sideboard": [],
+    "Deck": [
+      {
+        "count": 4,
+        "id": "00052"
+      },
+      {
+        "count": 4,
+        "id": "00053"
+      },
+      {
+        "count": 4,
+        "id": "00054"
+      },
+      {
+        "count": 3,
+        "id": "00055"
+      },
+      {
+        "count": 4,
+        "id": "00056"
+      },
+      {
+        "count": 3,
+        "id": "00057"
+      },
+      {
+        "count": 4,
+        "id": "00058"
+      },
+      {
+        "count": 4,
+        "id": "00059"
+      },
+      {
+        "count": 3,
+        "id": "00060"
+      },
+      {
+        "count": 4,
+        "id": "00061"
+      },
+      {
+        "count": 4,
+        "id": "00064"
+      },
+      {
+        "count": 2,
+        "id": "00066"
+      },
+      {
+        "count": 4,
+        "id": "00067"
+      },
+      {
+        "count": 2,
+        "id": "00068"
+      },
+      {
+        "count": 4,
+        "id": "00069"
+      },
+      {
+        "count": 3,
+        "id": "00032"
+      },
+      {
+        "count": 3,
+        "id": "00041"
+      },
+      {
+        "count": 3,
+        "id": "00104"
+      }
+    ],
+    "Grimório": [
+      {
+        "count": 4,
+        "id": "00062"
+      },
+      {
+        "count": 4,
+        "id": "00063"
+      },
+      {
+        "count": 4,
+        "id": "00065"
+      },
+      {
+        "count": 4,
+        "id": "00071"
+      }
+    ]
+  }
+},
+
+{
+  "title": "História em penas",
+  "id": "a9478313-efad-409e-90d7-32cd0bd75365",
+  "game": "War's Army",
+  "format": [
+    "Contestação (1v1)"
+  ],
+  "cardCount": 99,
+  "createdAt": "2026-01-06T20:05:59.247Z",
+  "lastModifiedAt": "2026-01-06T20:10:10.679Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Deck",
+      "Grimório"
+    ],
+    "Sideboard": [],
+    "Deck": [
+      {
+        "count": 3,
+        "id": "00073"
+      },
+      {
+        "count": 2,
+        "id": "00074"
+      },
+      {
+        "count": 4,
+        "id": "00075"
+      },
+      {
+        "count": 4,
+        "id": "00077"
+      },
+      {
+        "count": 4,
+        "id": "00080"
+      },
+      {
+        "count": 2,
+        "id": "00079"
+      },
+      {
+        "count": 4,
+        "id": "00081"
+      },
+      {
+        "count": 4,
+        "id": "00082"
+      },
+      {
+        "count": 2,
+        "id": "00083"
+      },
+      {
+        "count": 3,
+        "id": "00085"
+      },
+      {
+        "count": 2,
+        "id": "00086"
+      },
+      {
+        "count": 3,
+        "id": "00087"
+      },
+      {
+        "count": 3,
+        "id": "00089"
+      },
+      {
+        "count": 4,
+        "id": "00090"
+      },
+      {
+        "count": 2,
+        "id": "00091"
+      },
+      {
+        "count": 3,
+        "id": "00092"
+      },
+      {
+        "count": 2,
+        "id": "00093"
+      },
+      {
+        "count": 4,
+        "id": "00094"
+      },
+      {
+        "count": 1,
+        "id": "00095"
+      },
+      {
+        "count": 4,
+        "id": "00096"
+      },
+      {
+        "count": 4,
+        "id": "00019"
+      },
+      {
+        "count": 4,
+        "id": "00099"
+      },
+      {
+        "count": 2,
+        "id": "00100"
+      },
+      {
+        "count": 2,
+        "id": "00101"
+      },
+      {
+        "count": 2,
+        "id": "00102"
+      },
+      {
+        "count": 3,
+        "id": "00105"
+      },
+      {
+        "count": 4,
+        "id": "00106"
+      }
+    ],
+    "Grimório": [
+      {
+        "count": 2,
+        "id": "00084"
+      },
+      {
+        "count": 4,
+        "id": "00097"
+      },
+      {
+        "count": 4,
+        "id": "00098"
+      },
+      {
+        "count": 4,
+        "id": "00062"
+      },
+      {
+        "count": 4,
+        "id": "00071"
+      }
+    ]
+  }
+}
+]
